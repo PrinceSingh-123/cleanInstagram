@@ -21,7 +21,6 @@ pod install
 open Instaco.xcworkspace
 ```
 
-
 ## Why we are building this?
 
 - We love Instagram but Ads are polluting the feed.
@@ -31,13 +30,11 @@ open Instaco.xcworkspace
 - Built my first app for iOS for fun.
 
   
-
 ## Open Source & Copying
 
-In the spirit of openness, Instaco is licensed under MIT so that you can use code in your app, if you choose.
+In the spirit of openness, cleaninstagram is licensed under MIT so that you can use code in your app, if you choose.
 
 However, **please do not ship this app** under your own account. Paid or free.
-
 
 
 ## License
