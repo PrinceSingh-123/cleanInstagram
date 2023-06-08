@@ -21,11 +21,11 @@ pod install
 open Instaco.xcworkspace
 ```
 
-## Why we are building this?
+## Why i am building this?
 
-- We love Instagram but Ads are polluting the feed.
+- I love Instagram but Ads are polluting the feed.
 
-- We have control what we want to see in our feed.
+- More freedom with my feed.
 
 - Built my first app for iOS for fun.
 
